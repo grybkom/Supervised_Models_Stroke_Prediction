@@ -68,6 +68,7 @@ and some can be modified.
 ![confussion_matrix_svm_smote](https://github.com/user-attachments/assets/90baeee6-65df-4616-aa9b-083b0949ae23)
 
 ## To Do
+- [ ] Examine feature engineering possibilities. 
 - [ ] Assess class weighting to address class imbalance.
 - [ ] Assess [SMOTEENN](https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html) to address class imbalance.
 - [X] Apply grid search for hyperparameters max_depth, learning_rate, and n_estimators for XGB model.
