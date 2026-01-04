@@ -1,6 +1,4 @@
 <h1 align="center">Stroke Prediction Models</h1>
-
-Machine Learning Models for Stroke Prediction
 ---
 
 ## Background
