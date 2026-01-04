@@ -1,5 +1,4 @@
 <h1 align="center">Stroke Prediction Models</h1>
----
 
 ## Background
 The focus of this project is to build supervised models that predict stroke. 
